@@ -3,7 +3,7 @@
 Il s'aggit d'un site réalisé lors du module interface homme-machine durant ma première année de DUT informatique pour l'association fictive Combava.
 
 Cliquer sur le lien ci-dessous pour voir notre réalisation :<br />
-https://duffscs.github.io/david-lemonade/
+https://apokalypt.github.io/david-lemonade/
 
 
 ## Contexte :
